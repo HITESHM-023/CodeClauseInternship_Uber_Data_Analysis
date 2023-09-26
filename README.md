@@ -1,4 +1,4 @@
-## TOPIC: UBER DATA ANALYSIS
+## TOPIC : UBER DATA ANALYSIS
 
 ### 1. Project Overview : 
 The "Uber Data Analysis" project immerses itself in the wealth of data from Uber's ride-sharing services, with a primary objective of extracting valuable insights, optimizing operational processes, and facilitating data-driven decision-making. This comprehensive endeavor encompasses critical phases including data exploration, preprocessing, visualization, statistical analysis, and the development of a user-friendly GUI for querying trip details. By addressing these aspects, the project strives to provide a holistic perspective on Uber's operations, with the potential to drive efficiency improvements and enhance the overall experience for riders and drivers alike.
